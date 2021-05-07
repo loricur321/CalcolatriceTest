@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AS2021_4H_TPSIT_CurziLorenzo_Calcolatrice", "AS2021_4H_TPSIT_CurziLorenzo_Calcolatrice\AS2021_4H_TPSIT_CurziLorenzo_Calcolatrice.csproj", "{4A08D6A2-9F5F-4115-BF69-7C9B9D881CCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AS2021_4H_TPSIT_CurziLorenzo_CalcolatriceTest", "AS2021_4H_TPSIT_CurziLorenzo_CalcolatriceTest\AS2021_4H_TPSIT_CurziLorenzo_CalcolatriceTest.csproj", "{12631E81-D897-45B0-8C7B-52CF708992CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A08D6A2-9F5F-4115-BF69-7C9B9D881CCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A08D6A2-9F5F-4115-BF69-7C9B9D881CCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A08D6A2-9F5F-4115-BF69-7C9B9D881CCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A08D6A2-9F5F-4115-BF69-7C9B9D881CCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12631E81-D897-45B0-8C7B-52CF708992CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12631E81-D897-45B0-8C7B-52CF708992CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12631E81-D897-45B0-8C7B-52CF708992CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12631E81-D897-45B0-8C7B-52CF708992CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54D31F5A-D5F5-48A7-9B02-8EBE3B846DC8}
+	EndGlobalSection
+EndGlobal
